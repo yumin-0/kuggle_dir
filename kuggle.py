@@ -1,3 +1,4 @@
 print('hellokuggle')
-print('hellokuggle2')
+print('hellokuggle  2')
+print('hellokugge2')
 
